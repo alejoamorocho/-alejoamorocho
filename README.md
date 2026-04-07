@@ -123,10 +123,6 @@ And the best systems? They find order where everyone else sees chaos.
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=alejoamorocho&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=alejoamorocho&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </p>
 
