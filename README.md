@@ -1,22 +1,27 @@
 <div align="center">
+
 <!-- HEADER -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=I+build+products+that+move+needles+%F0%9F%8E%AF;Small+changes+%E2%80%94+massive+outcomes+%F0%9F%A6%8B;Finding+order+in+the+chaos;Product+Engineer+from+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=I+build+products+that+move+needles+%F0%9F%8E%AF;Small+changes+%E2%80%94+massive+outcomes+%F0%9F%A6%8B;Finding+order+in+the+chaos;Product+Engineer+from+Cali+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
+
 <br/>
+
 ```yaml
 name: Alejandro Amorocho
 located_in: Cali, Colombia 🇨🇴
 role: Product Engineer
-philosophy: >
-A single line of code can change an entire system.
-A single product can change an entire industry.
-That's the butterfly effect — and I engineer it.
-currently_shipping:
 
-"AI-powered platforms for real-world impact"
-"Algorithmic trading systems"
-"Gamified experiences people actually enjoy"
+philosophy: >
+  A single line of code can change an entire system.
+  A single product can change an entire industry.
+  That's the butterfly effect — and I engineer it.
+
+currently_shipping:
+  - "AI-powered platforms for real-world impact"
+  - "Algorithmic trading systems"
+  - "Gamified experiences people actually enjoy"
 
 fueled_by: ["coffee ☕", "good books 📚", "helping others 🤝"]
+```
 
 </div>
 
@@ -39,7 +44,7 @@ When I'm not shipping code, you'll find me lost in a book 📚, fueling up on co
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,go,python,gcp,firebase,nextjs,react,docker,git,linux&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=ts,go,python,gcp,firebase,nextjs,react,docker,git,linux&theme=dark" alt="Tech Stack" />
 
 </div>
 
@@ -86,8 +91,9 @@ When I'm not shipping code, you'll find me lost in a book 📚, fueling up on co
 
 <div align="center">
 
-<!-- Lorenz Attractor: upload lorenz-attractor.svg to your repo and reference it like this -->
 <img src="./lorenz-attractor.svg" alt="Lorenz Attractor - The Butterfly Effect" width="800"/>
+
+<br/>
 
 <sub><i>The Lorenz attractor — a deterministic system where tiny differences in initial conditions lead to wildly different outcomes. This is how I think about product engineering.</i></sub>
 
@@ -132,8 +138,8 @@ When I'm not shipping code, you'll find me lost in a book 📚, fueling up on co
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alejoamorocho)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aamorochohurtado@gmail.com)
+<a href="https://instagram.com/alejoamorocho"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:aamorochohurtado@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
