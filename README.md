@@ -113,6 +113,8 @@ And the best systems? They find order where everyone else sees chaos.
 <br/><br/>
 🔍 <b>Public contracting analytics</b> — Anti-corruption risk scoring engine that cross-references public procurement data
 <br/><br/>
+📋 <b>Agreement tracking platform</b> — Collaborative tool for managing bilateral agreements and project follow-ups with structured methodologies
+<br/><br/>
 🦋 <b>Always</b> — Looking for the small lever that moves the big system
 </p>
 
@@ -121,7 +123,7 @@ And the best systems? They find order where everyone else sees chaos.
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alejoamorocho&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=alejoamorocho&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
